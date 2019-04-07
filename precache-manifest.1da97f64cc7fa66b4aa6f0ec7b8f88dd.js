@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/react-slot-machine/static/media/orange.7b3e3f1c.png"
   },
   {
-    "revision": "65252ba2a0e95d47e228",
+    "revision": "c9c946422a6be59744c7",
     "url": "/react-slot-machine/static/css/main.7804653c.chunk.css"
   },
   {
@@ -24,8 +24,8 @@ self.__precacheManifest = [
     "url": "/react-slot-machine/static/media/banana.abf2234f.png"
   },
   {
-    "revision": "65252ba2a0e95d47e228",
-    "url": "/react-slot-machine/static/js/main.21f7baf7.chunk.js"
+    "revision": "c9c946422a6be59744c7",
+    "url": "/react-slot-machine/static/js/main.bef05df1.chunk.js"
   },
   {
     "revision": "0208eeabaf464ef48734afc7213356f0",
@@ -44,7 +44,7 @@ self.__precacheManifest = [
     "url": "/react-slot-machine/static/media/coin.e0f2b0be.wav"
   },
   {
-    "revision": "49ec3bb44f2ebd3b6cfc6d3aa476d030",
+    "revision": "9fcde11a24f018ae3ad11df3e74886de",
     "url": "/react-slot-machine/index.html"
   }
 ];

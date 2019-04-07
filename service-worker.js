@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/react-slot-machine/precache-manifest.72f33a6a43246b336a2407adcf48bdfc.js"
+  "/react-slot-machine/precache-manifest.1da97f64cc7fa66b4aa6f0ec7b8f88dd.js"
 );
 
 workbox.clientsClaim();
